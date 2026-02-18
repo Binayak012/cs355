@@ -1,0 +1,5 @@
+body{font-family:system-ui,Arial,sans-serif;max-width:720px;margin:32px auto;padding:0 16px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+input,button{font-size:16px;padding:10px}
+#msg{margin:12px 0;font-weight:600}
+img{width:100%;max-width:520px;border-radius:10px;display:block;margin-top:12px}
